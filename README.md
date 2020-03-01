@@ -1,23 +1,2 @@
-# q23m
-# q23m
-# q23m
-# q23m
-# ICS12
-# ICS12
-# ICS12
-# ICS12
-# ICS12
-# ICS12
-# ICS_12
-# ICS_12
-# ICS_12
-# ICS_12
-# ICS_12
-# ICS_12
-# ICS_12_rpg_summative
-# ICS_12_rpg_summative
-# AP_Physics_C
-# AP_Physics_C
-# AP_Physics_C
-# ICS_10_DDR_game
 # AP_Physics_C_3AxisSystem_summative
+3-axis spacecraft guidance system software for AP Physics C summative.
