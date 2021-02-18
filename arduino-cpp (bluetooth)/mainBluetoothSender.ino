@@ -59,33 +59,35 @@ void loop() {
 
   int spacesForReadingVals = 8;
   // print 12
-  Serial.print(read12);
+  printf(read12, spacesForReadingVals);
   Serial.print(" avg12: ");
-  Serial.print("hihihi");
+  printf(avg12, spacesForReadingVals);
+  Serial.print(" | ");
 
   // print 13
-  Serial.print(read13);
+  printf(read13, spacesForReadingVals);
   Serial.print(" avg13: ");
-  Serial.print(avg13);
+  printf(avg13, spacesForReadingVals);
   Serial.print(" | ");
 
   // print 14
-  Serial.print(read14);
+  printf(read14, spacesForReadingVals);
   Serial.print(" avg14: ");
-  Serial.print(avg14);
+  printf(avg14, spacesForReadingVals);
   Serial.print(" | ");
 
   // print 15
-  Serial.print(read15);
+  printf(read15, spacesForReadingVals);
   Serial.print(" avg15: ");
-  Serial.println(avg15);
+  printf(avg15, spacesForReadingVals);
+  Serial.println("");
+
 
 }
 
 
 // prints number with spaces; LEN IS THE TOTAL STRING LENGTH WANTED
 void printf(double number, int len) {     // for printing floats (will have .00 at the end)
- 
   int spacesNeeded = 0;
 
   Serial.print(number);
