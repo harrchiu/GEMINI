@@ -9,7 +9,7 @@ Read about the <a href="prospectus.pdf">prospectus</a>, various <a href="deviati
 <img src="src/infographic.png" alt="Infographic of Final Product (GEMINI)">
 
 ## Authors
-Jason Cai, <a href="github.com/harrchiu">Harrison Chiu</a>, <a href="github.com/harrchiu">Alex Guo</a>, Roger Li & Tom Liu
+Jason Cai, <a href="https://www.github.com/harrchiu">Harrison Chiu</a>, <a href="https://www.github.com/alexguo247">Alex Guo</a>, Roger Li & Tom Liu
 
 ## License
 This project is licensed under the terms of the **MIT** license, which you can read more about [here](https://git.uwaterloo.ca/se101-f20/five-guys/-/blob/master/LICENSE).
