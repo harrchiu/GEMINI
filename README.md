@@ -6,6 +6,6 @@ GEMINI is a 3-axis spacecraft guidance system from the ground up. The unit is bo
 
 ## More Info
 
-Read about the <a href="prospectus.pdf">detailed prospectus</a>, various <a href="deviations.pdf">design deviations</a>, or the <a href="final-manual.pdf">operation manual</a>. <br><br>
+Read more in the <a href="prospectus.pdf">detailed prospectus</a>, various <a href="deviations.pdf">design deviations</a>, or the <a href="final-manual.pdf">operation manual</a>. <br><br>
 <img src="src/infographic.png" alt="Infographic of Final Product (GEMINI)">
 
