@@ -5,7 +5,7 @@ GEMINI is a spacecraft guidance system built from the ground up. The unit is box
 
 ## More Info
 Read about the <a href="prospectus.pdf">prospectus</a>, the <a href="final-manual.pdf">operation manual</a>, or various <a href="deviations.pdf">design deviations</a>. <br><br>
-<img src="src/infographic.png" alt="Infographic of Final Product (GEMINI)"
+<img src="src/infographic.png" alt="Infographic of Final Product (GEMINI)">
 
 ## Authors
 Jason Cai, <a href="https://www.github.com/harrchiu">Harrison Chiu</a>, <a href="https://www.github.com/alexguo247">Alex Guo</a>, Roger Li & Tom Liu
