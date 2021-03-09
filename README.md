@@ -1,7 +1,7 @@
 # GEMINI - Navigation System
 
 
-GEMINI is a spacecraft guidance system built from the ground up. The unit is box-vessel containing gyroscopes consisting of papier-mâché encasings and tetrahedral photodiode systems via Arduino Bluetooth. GEMINI wirelessly displays a mission control using Java Swing, updating pitch, yaw, and roll in real-time.
+GEMINI is a spacecraft guidance system built from the ground up. The unit is a box-vessel containing gyroscopes, each consisting of papier-mâché encasings and tetrahedral photodiode systems via Arduino Bluetooth. GEMINI wirelessly displays a mission control using Java Swing, updating pitch, yaw, and roll in real-time.
 
 ## More Info
 Read about the <a href="prospectus.pdf">prospectus</a>, the <a href="final-manual.pdf">operation manual</a>, or various <a href="deviations.pdf">design deviations</a>. <br><br>
